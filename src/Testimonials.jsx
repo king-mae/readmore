@@ -7,7 +7,7 @@ function testimonials() {
     return (
         <div className='bg-accent'>
             <div className="container flex flex-col py-16 mx-auto text-black ">
-                <h1 className='text-6xl font-black text-center'>Trusted By The Best Authors</h1>
+                <h1 className='text-6xl font-black text-center'>Trusted By The Best Auth</h1>
 
                 <div className='flex flex-col items-center sm:justify-between items 2xl:flex-row'>
                     <div className='flex flex-col items-center mb-14'>
