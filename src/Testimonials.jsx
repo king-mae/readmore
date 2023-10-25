@@ -33,7 +33,7 @@ function testimonials() {
                     </div>
                 </div>
 
-                <button className='bg-tertiary rounded-full px-9 py-2.5  transition hover:brightness-50 mb-12 w-7/12 self-center'>
+                <button className='bg-tertiary rounded-full px-9 py-2.5  transition hover:brightness-50 w-fit self-center'>
                     <h1 className='text-3xl font-extrabold text-white '>
                         Get Started
                     </h1>
