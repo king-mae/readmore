@@ -1,7 +1,7 @@
-import './App.css'
-import james from './assets/James.png'
-import ryan from './assets/Ryan.png'
-import tim from './assets/Tim.png'
+import '../App.css'
+import james from '../assets/James.png'
+import ryan from '../assets/Ryan.png'
+import tim from '../assets/Tim.png'
 
 function testimonials() {
     return (

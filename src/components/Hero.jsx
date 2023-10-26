@@ -1,6 +1,6 @@
-import './App.css'
-import illustration from './assets/illustration.svg'
-import check from './assets/check.svg'
+import '../App.css'
+import illustration from '../assets/illustration.svg'
+import check from '../assets/check.svg'
 
 function Hero() {
     return (

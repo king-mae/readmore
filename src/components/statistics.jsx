@@ -1,7 +1,7 @@
-import './App.css'
-import books from './assets/books.svg'
-import users from './assets/users.svg'
-import swords from './assets/swords.svg'
+import '../App.css'
+import books from '../assets/books.svg'
+import users from '../assets/users.svg'
+import swords from '../assets/swords.svg'
 
 function statistics() {
     return (

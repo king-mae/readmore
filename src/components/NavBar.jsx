@@ -1,7 +1,7 @@
-import './App.css'
-import logo from "./assets/Logo.svg"
+import '../App.css'
+import logo from "../assets/Logo.svg"
 
-function App() {
+function NavBar() {
   return (
     <div className=' w-full h-20  bg-[#091643] items-center flex'>
       <div className="container flex justify-between p-5 mx-auto">
@@ -23,4 +23,4 @@ function App() {
   )
 }
 
-export default App
+export default NavBar
