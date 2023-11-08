@@ -1,6 +1,12 @@
+import HomeNavBar from "../components/HomeNavBar";
+import AllBooks from "../components/AllBooks";
+
 function Home(){
     return(
-      <h1>hi</h1> 
+      <div className="bg-secondary">
+      <HomeNavBar/>
+      <AllBooks/>
+      </div>
     )
 }
 
