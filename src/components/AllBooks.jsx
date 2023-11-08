@@ -1,5 +1,4 @@
 import '../App.css'
-import book from '../assets/book.png'
 import { books } from '../data.js'
 
 function AllBooks() {
@@ -11,7 +10,7 @@ function AllBooks() {
             </h1>
             <div className='flex space-x-5 overflow-x-scroll no-scrollbar'>
                 {books.map((item, index) => (
-                    <div key={index} className=' h-52 w-36 shrink-0'>
+                    <div key={index} className=' h-52 w-36 shrink-0 hover:brightness-50'>
                         <img src={item.Image} alt="book" className='w-full h-full rounded-xl'/>
                     </div>
                 ))}
